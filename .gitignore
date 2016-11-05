@@ -17,4 +17,8 @@ nbproject
 .svn
 .sass-cache
 
-web/
+web
+vendor
+
+composer.lock
+
